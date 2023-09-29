@@ -6,7 +6,7 @@ import org.litepal.crud.DataSupport;
  * Created by chenxuguo on 23-9-28.
  */
 
-public class Country extends DataSupport {
+public class County extends DataSupport {
 
     private int id;
 
